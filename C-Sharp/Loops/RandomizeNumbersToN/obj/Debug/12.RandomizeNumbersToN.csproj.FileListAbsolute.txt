@@ -1,0 +1,6 @@
+A:\Homework\Loops\Loops\RandomizeNumbersToN\bin\Debug\RandomizeNumbersToN.exe.config
+A:\Homework\Loops\Loops\RandomizeNumbersToN\obj\Debug\12.RandomizeNumbersToN.csprojResolveAssemblyReference.cache
+A:\Homework\Loops\Loops\RandomizeNumbersToN\bin\Debug\RandomizeNumbersToN.exe
+A:\Homework\Loops\Loops\RandomizeNumbersToN\bin\Debug\RandomizeNumbersToN.pdb
+A:\Homework\Loops\Loops\RandomizeNumbersToN\obj\Debug\RandomizeNumbersToN.exe
+A:\Homework\Loops\Loops\RandomizeNumbersToN\obj\Debug\RandomizeNumbersToN.pdb

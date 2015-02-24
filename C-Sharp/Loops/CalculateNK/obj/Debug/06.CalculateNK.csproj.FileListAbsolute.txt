@@ -1,0 +1,5 @@
+A:\Homework\Loops\Loops\CalculateNK\bin\Debug\CalculateNK.exe.config
+A:\Homework\Loops\Loops\CalculateNK\bin\Debug\CalculateNK.exe
+A:\Homework\Loops\Loops\CalculateNK\bin\Debug\CalculateNK.pdb
+A:\Homework\Loops\Loops\CalculateNK\obj\Debug\CalculateNK.exe
+A:\Homework\Loops\Loops\CalculateNK\obj\Debug\CalculateNK.pdb

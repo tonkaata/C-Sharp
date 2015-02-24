@@ -1,0 +1,6 @@
+A:\Homework\Loops\Loops\PrintADeckOfCards\obj\Debug\04.PrintADeckOfCards.csprojResolveAssemblyReference.cache
+A:\Homework\Loops\Loops\PrintADeckOfCards\bin\Debug\PrintADeckOfCards.exe.config
+A:\Homework\Loops\Loops\PrintADeckOfCards\bin\Debug\PrintADeckOfCards.exe
+A:\Homework\Loops\Loops\PrintADeckOfCards\bin\Debug\PrintADeckOfCards.pdb
+A:\Homework\Loops\Loops\PrintADeckOfCards\obj\Debug\PrintADeckOfCards.exe
+A:\Homework\Loops\Loops\PrintADeckOfCards\obj\Debug\PrintADeckOfCards.pdb

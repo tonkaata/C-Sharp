@@ -1,0 +1,5 @@
+A:\Homework\Loops\Loops\DecimalToBinary\bin\Debug\DecimalToBinary.exe.config
+A:\Homework\Loops\Loops\DecimalToBinary\bin\Debug\DecimalToBinary.exe
+A:\Homework\Loops\Loops\DecimalToBinary\bin\Debug\DecimalToBinary.pdb
+A:\Homework\Loops\Loops\DecimalToBinary\obj\Debug\DecimalToBinary.exe
+A:\Homework\Loops\Loops\DecimalToBinary\obj\Debug\DecimalToBinary.pdb

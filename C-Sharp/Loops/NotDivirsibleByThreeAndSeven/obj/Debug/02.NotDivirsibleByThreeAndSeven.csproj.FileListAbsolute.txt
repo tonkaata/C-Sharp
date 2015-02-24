@@ -1,0 +1,5 @@
+A:\Homework\Loops\Loops\NotDivirsibleByThreeAndSeven\bin\Debug\NotDivirsibleByThreeAndSeven.exe.config
+A:\Homework\Loops\Loops\NotDivirsibleByThreeAndSeven\bin\Debug\NotDivirsibleByThreeAndSeven.exe
+A:\Homework\Loops\Loops\NotDivirsibleByThreeAndSeven\bin\Debug\NotDivirsibleByThreeAndSeven.pdb
+A:\Homework\Loops\Loops\NotDivirsibleByThreeAndSeven\obj\Debug\NotDivirsibleByThreeAndSeven.exe
+A:\Homework\Loops\Loops\NotDivirsibleByThreeAndSeven\obj\Debug\NotDivirsibleByThreeAndSeven.pdb

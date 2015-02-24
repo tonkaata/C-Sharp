@@ -1,0 +1,5 @@
+A:\Homework\Loops\Loops\SecondCalculateNK\bin\Debug\SecondCalculateNK.exe.config
+A:\Homework\Loops\Loops\SecondCalculateNK\bin\Debug\SecondCalculateNK.exe
+A:\Homework\Loops\Loops\SecondCalculateNK\bin\Debug\SecondCalculateNK.pdb
+A:\Homework\Loops\Loops\SecondCalculateNK\obj\Debug\SecondCalculateNK.exe
+A:\Homework\Loops\Loops\SecondCalculateNK\obj\Debug\SecondCalculateNK.pdb

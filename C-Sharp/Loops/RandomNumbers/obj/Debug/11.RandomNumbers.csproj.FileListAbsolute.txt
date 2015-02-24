@@ -1,0 +1,5 @@
+A:\Homework\Loops\Loops\RandomNumbers\bin\Debug\RandomNumbers.exe.config
+A:\Homework\Loops\Loops\RandomNumbers\bin\Debug\RandomNumbers.exe
+A:\Homework\Loops\Loops\RandomNumbers\bin\Debug\RandomNumbers.pdb
+A:\Homework\Loops\Loops\RandomNumbers\obj\Debug\RandomNumbers.exe
+A:\Homework\Loops\Loops\RandomNumbers\obj\Debug\RandomNumbers.pdb

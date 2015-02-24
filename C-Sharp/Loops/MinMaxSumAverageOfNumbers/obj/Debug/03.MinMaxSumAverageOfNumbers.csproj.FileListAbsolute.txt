@@ -1,0 +1,6 @@
+A:\Homework\Loops\Loops\MinMaxSumAverageOfNumbers\bin\Debug\MinMaxSumAverageOfNumbers.exe.config
+A:\Homework\Loops\Loops\MinMaxSumAverageOfNumbers\bin\Debug\MinMaxSumAverageOfNumbers.exe
+A:\Homework\Loops\Loops\MinMaxSumAverageOfNumbers\bin\Debug\MinMaxSumAverageOfNumbers.pdb
+A:\Homework\Loops\Loops\MinMaxSumAverageOfNumbers\obj\Debug\03.MinMaxSumAverageOfNumbers.csprojResolveAssemblyReference.cache
+A:\Homework\Loops\Loops\MinMaxSumAverageOfNumbers\obj\Debug\MinMaxSumAverageOfNumbers.exe
+A:\Homework\Loops\Loops\MinMaxSumAverageOfNumbers\obj\Debug\MinMaxSumAverageOfNumbers.pdb

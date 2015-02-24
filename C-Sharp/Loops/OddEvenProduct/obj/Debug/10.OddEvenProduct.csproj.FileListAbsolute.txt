@@ -1,0 +1,5 @@
+A:\Homework\Loops\Loops\OddEvenProduct\bin\Debug\OddEvenProduct.exe.config
+A:\Homework\Loops\Loops\OddEvenProduct\bin\Debug\OddEvenProduct.exe
+A:\Homework\Loops\Loops\OddEvenProduct\bin\Debug\OddEvenProduct.pdb
+A:\Homework\Loops\Loops\OddEvenProduct\obj\Debug\OddEvenProduct.exe
+A:\Homework\Loops\Loops\OddEvenProduct\obj\Debug\OddEvenProduct.pdb

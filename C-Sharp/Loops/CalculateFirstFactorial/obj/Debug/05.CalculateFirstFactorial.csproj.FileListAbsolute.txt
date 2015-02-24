@@ -1,0 +1,6 @@
+A:\Homework\Loops\Loops\CalculateFirstFactorial\bin\Debug\CalculateFirstFactorial.exe.config
+A:\Homework\Loops\Loops\CalculateFirstFactorial\bin\Debug\CalculateFirstFactorial.exe
+A:\Homework\Loops\Loops\CalculateFirstFactorial\bin\Debug\CalculateFirstFactorial.pdb
+A:\Homework\Loops\Loops\CalculateFirstFactorial\obj\Debug\05.CalculateFirstFactorial.csprojResolveAssemblyReference.cache
+A:\Homework\Loops\Loops\CalculateFirstFactorial\obj\Debug\CalculateFirstFactorial.exe
+A:\Homework\Loops\Loops\CalculateFirstFactorial\obj\Debug\CalculateFirstFactorial.pdb

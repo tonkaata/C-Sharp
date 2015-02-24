@@ -1,0 +1,6 @@
+A:\Homework\Loops\Loops\NumbersFromOneToN\bin\Debug\NumbersFromOneToN.exe.config
+A:\Homework\Loops\Loops\NumbersFromOneToN\bin\Debug\NumbersFromOneToN.exe
+A:\Homework\Loops\Loops\NumbersFromOneToN\bin\Debug\NumbersFromOneToN.pdb
+A:\Homework\Loops\Loops\NumbersFromOneToN\obj\Debug\01.NumbersFromOneToN.csprojResolveAssemblyReference.cache
+A:\Homework\Loops\Loops\NumbersFromOneToN\obj\Debug\NumbersFromOneToN.exe
+A:\Homework\Loops\Loops\NumbersFromOneToN\obj\Debug\NumbersFromOneToN.pdb
